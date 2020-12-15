@@ -1,0 +1,22 @@
+
+* {
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'LatinCG';
+  src:url("/Users/zhangkexuan/Library/Fonts/Latin CG Bold Regular.otf");
+}
+
+@font-face {
+  font-family: 'Ticketing';
+  src:url("/Users/zhangkexuan/Library/Fonts/ticketing.regular.ttf");
+}
+
+@font-face {
+  font-family: 'Gill Sans';
+  src:url("/Users/zhangkexuan/Library/Fonts/GillSans.ttc");
+}
+
+body {
+  background-color: black;
+}
